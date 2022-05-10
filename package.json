@@ -1,0 +1,20 @@
+{
+  "name": "applaudo-gian",
+  "version": "1.0.0",
+  "description": "Gian's tests for Applaudo",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdlzambiazzi/Applaudo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdlzambiazzi/Applaudo/issues"
+  },
+  "homepage": "https://github.com/gdlzambiazzi/Applaudo#readme"
+}
