@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gdlzambiazzi/Applaudo/issues"
   },
-  "homepage": "https://github.com/gdlzambiazzi/Applaudo#readme"
+  "homepage": "https://github.com/gdlzambiazzi/Applaudo#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
 }
